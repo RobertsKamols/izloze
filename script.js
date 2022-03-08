@@ -12,7 +12,7 @@ for (let i=0;i<uzvaretajuSkaits;i++){
   rand= Math.floor(rand); //noapaļo uz leju
   let uzvaretajs = vardi[rand];
   console.log(vardi[rand]);
-  rindas.innerHTML+=
+  rindas.innerHTML+=``;
   
 }
 
