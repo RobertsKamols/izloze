@@ -9,3 +9,16 @@ table, td, th {
 
   table {
     border-collapse: collapse;}
+
+   body{
+     background-image:url("https://wallpaperaccess.com/full/3704389.png");
+     background-repeat: no-repeat;
+
+   }
+
+   h1{
+    color: #f5f5dc;
+    font-size:35px; 
+    font-weight: bold;
+   }
+   
