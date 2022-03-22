@@ -1,7 +1,10 @@
 table, td, th {  
-    border: 3px solid #ddd;
+    border: 3px solid #83580b;
     text-align: left;
     padding: 15px;
+      background-color: #d9b650;
+      color: #83580b;
+    
   }
 
   table {
